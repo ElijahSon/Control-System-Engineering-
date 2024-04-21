@@ -2,7 +2,6 @@
 %           Maintien a poste autonoMe d'un satellite
 %
 %       Fils Elie Boungoueres
-%       Khabane Niang
 %       Master ISC - AM2AS
 %
 %       Encadrant : Christophe Fargues
